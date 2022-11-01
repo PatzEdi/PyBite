@@ -1,5 +1,5 @@
 # PyBite
-The ultimate tool for your python script compiling! Quick and easy, made with passions by PatzEdi.
+The ultimate tool for your python script compiling! Quick and easy, made with passion by PatzEdi.
 ### **A script that allows you to compile any python script in an automated, simple, quick, and easy way!.**
 ____________________________________________________________________________
 
