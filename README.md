@@ -17,6 +17,8 @@ ____________________________________________________________________________
 ____________________________________________________________________________
 ## **Why?**
 - I wanted to showcase how one can easily create a simple script like this one in order to save time in doing their job.
+- Python Bite code as it is called, or compiled python code, is unreadable to the human being. If you want to protect your code, you can do so with this script!
+- Please note however that **there are bite decompilers out there**, so it is not 100 percent secure for your code. Still worth mentioning!
 ____________________________________________________________________________
 ## **How?**
 - Creating a simple menu, the user can esaily create a compiled file through the use of [py_compile](https://docs.python.org/3/library/py_compile.html)
