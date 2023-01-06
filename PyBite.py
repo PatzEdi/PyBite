@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-#CREATED BY ZIOZVEVO
+#CREATED BY PatzEdi
 #Started: August 12, 2022 at 11:40 AM, LATEST UPDATE: January 6, 2023 at 9:43 AM
 
 import py_compile
