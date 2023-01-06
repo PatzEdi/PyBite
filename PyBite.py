@@ -136,7 +136,7 @@ while 1:
 	elif MainMenu == 2 or choice == 2:
 		choice = 2
 		clearscreen()
-		print("\n\nBite code transforms your python code into a half human readable form of code. However, most of it is \"Obfuscated\". The good thing about bite code is that even if it isn't human readable, it is still executable by python. You can simply run the bite coded script or program as you would usually do: Calling the python command followed by the bite coded file.\n\nWhy Bite Code? Bite code can help in hiding some of your code from others. It can be decompiled.(However, most bite code decompilers are outdated*) Not only that, but bite code is a compiled version of python, making the script faster. This is useful if you want more efficiency in your scripts when executed.\n\nCreated with <3 by ZIOZVEVO")
+		print("\n\nBite code transforms your python code into a half human readable form of code. However, most of it is \"Obfuscated\". The good thing about bite code is that even if it isn't human readable, it is still executable by python. You can simply run the bite coded script or program as you would usually do: Calling the python command followed by the bite coded file.\n\nWhy Bite Code? Bite code can help in hiding some of your code from others. It can be decompiled.(However, most bite code decompilers are outdated*) Not only that, but bite code is a compiled version of python, making the script faster. This is useful if you want more efficiency in your scripts when executed.\n\nCreated with <3 by PatzEdi")
 	elif MainMenu == 99:
 		clearscreen()
 		print("\n\nThank you for using PyBite!\n\n")
