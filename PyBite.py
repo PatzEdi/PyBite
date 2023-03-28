@@ -21,6 +21,7 @@ def createmovefile():
 	trimmedfile = file.replace(".py" , '')
 	#Go to user inputted directory.
 	os.chdir(dir)
+	#just this line of code is enough to compile the file in bite code.
 	#if statememnt here to see if PyBite folder already exists.
 	PyBiteAlreadyExistsCheck = os.path.isdir(dir + "/PyBite")
 	if PyBiteAlreadyExistsCheck == False:
